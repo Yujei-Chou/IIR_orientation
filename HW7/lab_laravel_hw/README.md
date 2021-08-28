@@ -1,4 +1,4 @@
-# lab_laravel_hw
+# laravel & docker practice
 - run container
 ```
 docker-compose up
