@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+    web:
+        image: lab_laravel
+        build: .
+        command: php artisan serve --host=0.0.0.0
+        # command: composer create-project laravel/laravel web        
+        ports:
+            - 8000:8000
+        volumes:
+            - ./web:/app
