@@ -1,4 +1,4 @@
-# lab_laravel_hw
+# django & docker practice
 - run container
 ```
 docker-compose up
@@ -9,5 +9,5 @@ docker-compose down
 ```
 - open website
 ```
-127.0.0.1/8000
+127.0.0.1/8000/movie/home
 ```
