@@ -9,6 +9,17 @@
 - 預測前N個最大的rating值
 - 若testing set中的那筆資料有排在前N筆則Hit
 - Hit值算法=(所有userId Hit總數)/(user總數)
+- results:
+  - Collaborative Filtering
+  ```
+  Top-3 Hit Rate: 0.022
+  Top-5 Hit Rate: 0.045
+  ```
+  - Matrix Factorization
+  ```
+  Top-3 Hit Rate: 0.243
+  Top-5 Hit Rate: 0.306
+  ```
 - functions:
 ```
 def getUser_100Movies(UserId):
@@ -34,14 +45,3 @@ def TopN_HitRate(N, model):
       Hit+=1
   return Hit/len(df['userId'].unique())
 ```
-- results:
-  - Collaborative Filtering
-  ```
-  Top-3 Hit Rate: 0.022
-  Top-5 Hit Rate: 0.045
-  ```
-  - Matrix Factorization
-  ```
-  Top-3 Hit Rate: 0.243
-  Top-5 Hit Rate: 0.306
-  ```
