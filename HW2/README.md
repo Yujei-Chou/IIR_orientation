@@ -34,3 +34,14 @@ def TopN_HitRate(N, model):
       Hit+=1
   return Hit/len(df['userId'].unique())
 ```
+- results:
+  - Collaborative Filtering
+  ```
+  Top-3 Hit Rate: 0.022
+  Top-5 Hit Rate: 0.045
+  ```
+  - Matrix Factorization
+  ```
+  Top-3 Hit Rate: 0.243
+  Top-5 Hit Rate: 0.306
+  ```
