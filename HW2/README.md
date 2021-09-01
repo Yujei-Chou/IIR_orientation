@@ -10,12 +10,12 @@
 - 若testing set中的那筆資料有排在前N筆則Hit
 - Hit值算法=(所有userId Hit總數)/(user總數)
 - results:
-  - Collaborative Filtering
+  - Collaborative Filtering:
   ```
   Top-3 Hit Rate: 0.022
   Top-5 Hit Rate: 0.045
   ```
-  - Matrix Factorization
+  - Matrix Factorization:
   ```
   Top-3 Hit Rate: 0.243
   Top-5 Hit Rate: 0.306
