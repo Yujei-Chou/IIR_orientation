@@ -8,7 +8,7 @@
 
 ### SENET + Attention Gate
   - Concept:
-    <img src="https://user-images.githubusercontent.com/56510169/131803546-2ac19767-69ed-4d48-842a-e92e413944f9.png" alt="drawing" width="300"/>
+  <img src="https://user-images.githubusercontent.com/56510169/131803546-2ac19767-69ed-4d48-842a-e92e413944f9.png" alt="drawing" width="500"/>
   
   - Batch size: 4
   
