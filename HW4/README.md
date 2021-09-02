@@ -1,3 +1,8 @@
-![image](https://user-images.githubusercontent.com/56510169/131802790-fd47439a-3f62-459b-a351-2e954a756b0b.png)
-![image](https://user-images.githubusercontent.com/56510169/131802862-b1d2f9b9-4910-4ea3-8ed2-6656a16b859a.png)
-![image](https://user-images.githubusercontent.com/56510169/131802873-f325a039-1c56-45b7-8017-27cf4c3b80a8.png)
+# SENET
+- Concept:![image](https://user-images.githubusercontent.com/56510169/131803211-ec2d6dd8-a579-4b69-9ade-d75a241d52b9.png)
+- Batch:8
+- Dice:0.849
+# SENET + Attention Gate
+- Concept:![image](https://user-images.githubusercontent.com/56510169/131803546-2ac19767-69ed-4d48-842a-e92e413944f9.png)
+- Batch:4
+- Dice:0.86
