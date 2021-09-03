@@ -15,7 +15,7 @@
   
   - Dice: 0.86
 
-### Image result compare:
+### Image label result:
 - 1st example in valid dataset:
 
 <img src="https://user-images.githubusercontent.com/56510169/131805578-5f577339-72c1-40b5-a022-3c72981f1133.png" alt="drawing" width="200"/><img src="https://user-images.githubusercontent.com/56510169/131806076-fdc38da5-d8c3-43a1-8ad9-c0b8e7c887f1.png" alt="drawing" width="200"/><img src="https://user-images.githubusercontent.com/56510169/131825287-90e7d31c-f8b1-4a36-948e-a9e2063c089d.png" alt="drawing" width="200"/><img src="https://user-images.githubusercontent.com/56510169/131934453-47bb17ae-3bb4-4b88-bcaf-9c2b0cbda4a2.png" alt="drawing" width="200"/>
